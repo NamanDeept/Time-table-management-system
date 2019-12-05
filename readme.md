@@ -54,7 +54,7 @@ This project is configured in eclipse and is a simple implementation
 
 Click 'Get Started with us today' on the homepage
 
-Login (username: pranav password: khurana)
+Login (username: naman_deept password: iit2017507@iiita)
 
 Click on 'Test with custom input'
 
