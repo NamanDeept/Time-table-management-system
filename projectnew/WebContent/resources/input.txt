@@ -1,0 +1,15 @@
+studentgroups
+IT(3rd-Year) SOE-532C 5 AI-532C 7 POE 7 GVC 3 CNE 5
+ECE(3rd-Year) AP-1101 7 ME-1111 4 EVS-1101 3 AM-1101 8 PC-1101 6
+teachers
+O.N.Singh AP-1101
+A.Gupta AM-1101
+Panda PC-1101
+Tyagi EVS-1101
+f ME-1111
+Ashutosh SOE-532C
+Kala AI-532C
+Ranjeet POE
+Pavan GVC
+Shekhar CNE
+end
