@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `country`, `email`) VALUES
-(1, 'pranav', 'khurana', 'india', 'pranavkhurana96@gmail.com');
+(1, 'naman_deept', 'iit2017507@iiita', 'india', 'iit2017507@iiita.ac.in');
 
 --
 -- Indexes for dumped tables
