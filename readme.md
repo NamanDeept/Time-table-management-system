@@ -1,4 +1,4 @@
-﻿#Time Table Generator automation using a genetic algorithm
+# Time Table Generator automation using a genetic algorithm
 
 ## Introduction
 Time Table Scheduling is an NP-hard problem and hence polynomial time verifiable using genetic algorithms. It a typical scheduling problem that appears to be a tedious job in every academic institute once or twice a year. In earlier days, time table scheduling was done manually with a single person or some group involved in the task of scheduling it manually, which takes a lot of effort and time. Planning timetables is one of the most complex and error-prone applications.
@@ -91,4 +91,4 @@ Using Genetics Algorithm, a number of trade-off solutions, in terms of multiple 
 
 ## Author
 
-**Ishan Arora, Vikrant Singh, Akshay Gupta, Naman Deept. **
+** Ishan Arora, Vikrant Singh, Akshay Gupta, Naman Deept. **
